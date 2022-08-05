@@ -1,5 +1,8 @@
 # SyriaTel-Telecomunication
-Photo from [canva](https://www.canva.com/design/DAFIXmlBrok/oYTH_fIUSekmVxc0aOVRCQ/edit?utm_content=DAFIXmlBrok&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) 
+![Untitled design (15)](https://user-images.githubusercontent.com/52035540/183046380-595a3cfc-c5f1-4767-a59a-bd68c53e8634.png)
+
+
+Photo from [canva]
 
 # BUSINESS UNDERSTANDING¶
 The dataset comes from SyriaTel, Telecommunications company, and it is related to the number of clients lost and the financial impact it has in terms of money reduction to the company. The classification goal is to predict whether a customer will ('soon') stop doing business with SyriaTel.
@@ -40,7 +43,7 @@ churn - The response variable we will be targeting.
 # Project Plan
 Data Preparation - Loading Libraries - Loading data - Descriptive Exploration - Data Cleaning - Exploratory Descriptive Analysis (EDA) - Pre-processing Data
 
-Modelling - Train test split - Baseline Model - Logistic Regression- KNN  - Decision Tree -  Evaluation
+Modelling - Train test split - Baseline Model - Logistic Regression- KNN  - Decision Tree 
 
 Conclusion
 
