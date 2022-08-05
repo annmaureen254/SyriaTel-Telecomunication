@@ -26,18 +26,18 @@ The target variable is the churn variable that contains True or False on the fac
 
 # Features include:
 
-state - Client's residence.
-account length - How long they have had the subscription.
-area code - Client's area code.
-phone number - Client's phone number.
-international plan - Is the client subscribed to the international plan?(yes/no).
-voice mail plan - Is the client subscribed to the voice mail plan?(yes/no).
-number vmail messages - The number of the voicemail messages.
-total day minutes, calls, charge - the client's daily minutes, calls, and charges.
-total eve minutes, calls, charge - the client's evening minutes, calls, and charges.
-total night minutes, calls, charge -the client's night minutes, calls, and charges.
-total intl minutes, calls, charge - the client's total international minutes, calls, and charges.
-customer service calls - how many times the customer service line was called.
+state - Client's residence. <br>
+account length - How long they have had the subscription. <br>
+area code - Client's area code. <br>
+phone number - Client's phone number. <br>
+international plan - Is the client subscribed to the international plan?(yes/no). <br>
+voice mail plan - Is the client subscribed to the voice mail plan?(yes/no). <br>
+number vmail messages - The number of the voicemail messages. <br>
+total day minutes, calls, charge - the client's daily minutes, calls, and charges. <br>
+total eve minutes, calls, charge - the client's evening minutes, calls, and charges. <br>
+total night minutes, calls, charge -the client's night minutes, calls, and charges. <br>
+total intl minutes, calls, charge - the client's total international minutes, calls, and charges. <br>
+customer service calls - how many times the customer service line was called. <br>
 churn - The response variable we will be targeting.
 
 # Project Plan
